@@ -17,4 +17,4 @@ print("hello")
 ![asdfadsfdasf](./image/image.jpg)
 
 # 관련 영상
-[유튜부 용상 바로가기](pornhub.com)
+[유튜부 용상 바로가기](youtube.com)
